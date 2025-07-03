@@ -160,7 +160,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 1. Clone the repository
 2. Create a `.env` file in the root directory with the following content:
    ```env
-   OPENROUTER_API_KEY=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
+   OPENROUTER_API_KEY=<OPENROUTER_API_KEY>
    OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
    ```
 3. Install Python dependencies:
